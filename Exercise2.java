@@ -3,7 +3,7 @@
  * Largest non-prime number less than 1000, which has the least number of factors.
  */
 import java.util.*;
-public class Exercise17 {
+public class Exercise2 {
     public static void main(String[]args){
         Set factorSet = new HashSet();
         int factors = 500;
