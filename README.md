@@ -13,3 +13,11 @@ This Java program simulates a two-player dice game for a set number of rounds. I
 Exercise 2: Largest Number with Fewest Factor Calculator
 
 This java program uses loops and the Set Class to find the largest number less than 1000, that has the least number of factors. It iterates backward from 999, calculating the total number of factors (divisors) for each integer. The program maintains a record of the largest number found so far that is composite (has 3 or more factors) and possesses the smallest factor count. The final output is the specific number that satisfies both the "largest" and "least number of factors" criteria within the range.
+
+--------------
+
+Exercise 3: Smallest value
+
+This java program prompts the user to enter 3 double number and then the program displays the smallest number from the given values.
+
+---------------
