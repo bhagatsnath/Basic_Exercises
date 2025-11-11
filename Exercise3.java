@@ -4,7 +4,7 @@
  * Java Unit 4 Practice
  */
 import java.util.*;
-public class Practice1{
+public class Exercise3{
     public static void main(String[]args){
         Scanner sc = new Scanner(System.in);
         int i = 1;
