@@ -2,7 +2,7 @@
  * Author: Bhagat Sabari Nath
  */
 import java.util.*;
-public class Exercise2
+public class Exercise3
 {
     public static void main(String[]args)
     {
