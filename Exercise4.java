@@ -8,7 +8,7 @@ import java.util.*;
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-public class Lesson6 extends JPanel implements ActionListener
+public class Exercise4 extends JPanel implements ActionListener
 {
     //instance variable
     static Scanner sc=new Scanner(System.in);
