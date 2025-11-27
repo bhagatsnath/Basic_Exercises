@@ -21,3 +21,7 @@ Exercise 3: Smallest value
 This java program prompts the user to enter 3 double number and then the program displays the smallest number from the given values.
 
 ---------------
+
+Exercise 4: Cashier User Interface
+
+This program presents a user interface that is user-friendly with labels and Text Fields from javax.swing package. The interafec shows a yellow background, 3 labels, 4 Text fields and one button. The first three text fields are interatable, so when the user enters the unit price and the quantity of the item, and then press the button, the program will calculate and print the total cost in the fourth text field. 
